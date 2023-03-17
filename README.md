@@ -12,6 +12,11 @@ O cliente Angular é responsável por exibir as mensagens enviadas pelos usuári
 
 Este projeto é um excelente exemplo de como a tecnologia SignalR pode ser utilizada para criar uma comunicação bidirecional em tempo real entre vários usuários. Além disso, o projeto também demonstra o uso da biblioteca @microsoft/signalr em Angular para estabelecer uma conexão WebSocket e receber as mensagens enviadas pelo servidor.
 
+## Demonstração 
+
+![Pagina Inicial](https://github.com/ezequiel-lima/chat-com-signalr/blob/main/page1.PNG)
+![Chat](https://github.com/ezequiel-lima/chat-com-signalr/blob/main/page2.PNG)
+
 ## Como executar o projeto
 Para executar o projeto, siga as seguintes etapas:
 
